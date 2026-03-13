@@ -27,4 +27,16 @@ Learning Outcome
 
 Understanding of packet capture  
 Network traffic monitoring  
-Basic packet analysis
+Basic packet analysis 
+
+
+
+
+## Example Output
+
+Example packet capture output:
+
+Source MAC: 00:1A:2B:3C:4D:5E  
+Destination MAC: 08:00:27:12:34:56  
+Protocol: ICMP
+
